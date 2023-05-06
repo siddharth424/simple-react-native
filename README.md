@@ -26,9 +26,9 @@ This is a simple React Native app that allows the user to inflate and deflate a 
 ## Screenshots
 
 <p float="center">
-<img src="https://user-images.githubusercontent.com/73775321/236644334-7c9ba3bf-c5b0-4c74-8eb3-8faf34d11efc.jpg" width="300" />&emsp;
-<img src="https://user-images.githubusercontent.com/73775321/236644254-fa042aa1-5ada-47c7-8479-78a6273bbdf1.jpg" width="300"/>&emsp;
-<img src="https://user-images.githubusercontent.com/73775321/236644245-59b4ea1d-bb5a-47a3-b080-c3b980335d46.jpg" width="300"/>
+<img src="https://user-images.githubusercontent.com/73775321/236644334-7c9ba3bf-c5b0-4c74-8eb3-8faf34d11efc.jpg" width="250" />&emsp;
+<img src="https://user-images.githubusercontent.com/73775321/236644254-fa042aa1-5ada-47c7-8479-78a6273bbdf1.jpg" width="250"/>&emsp;
+<img src="https://user-images.githubusercontent.com/73775321/236644245-59b4ea1d-bb5a-47a3-b080-c3b980335d46.jpg" width="250"/>
 </p>
 
 ## API
