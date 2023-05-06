@@ -24,8 +24,8 @@ This is a simple React Native app that allows the user to inflate and deflate a 
 3.  If the submission is successful, a message will be displayed confirming that your data has been submitted.
 
 ## Screenshots
-
-
+![Screenshot_2023-05-07-01-15-40-026_host exp exponent](https://user-images.githubusercontent.com/73775321/236644254-fa042aa1-5ada-47c7-8479-78a6273bbdf1.jpg)
+![Screenshot_2023-05-07-01-16-08-999_host exp exponent](https://user-images.githubusercontent.com/73775321/236644245-59b4ea1d-bb5a-47a3-b080-c3b980335d46.jpg)
 
 ## API
 
